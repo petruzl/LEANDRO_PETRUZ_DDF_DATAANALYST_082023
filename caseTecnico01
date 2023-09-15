@@ -1,0 +1,4 @@
+
+datasets
+curl -X GET \
+     "https://datasets-server.huggingface.co/first-rows?dataset=spacemanidol%2Fproduct-search-corpus&config=default&split=train"
